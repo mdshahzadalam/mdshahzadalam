@@ -1,6 +1,14 @@
 ![ligo](https://github.com/mdshahzadalam/mdshahzadalam/blob/main/banner.jpg)
 
-<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/mdshahzadalam" target="_blank">Md Shahzad Alam</h1> 
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
+
+<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/mdshahzadalam" target="_blank">Md Shahzad Alam</h1> 
+
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
 
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -11,9 +19,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahzadalam&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahzadalam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahzadalam" alt="mdshahzadalam" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c1aa7769-1be6-44fc-9da6-25c2a3977838">
+
+
+
+
 
 - 🔭 I’m currently working on [HelpingHand](https://github.com/mdshahzadalam/helpinghand)
 
@@ -25,23 +35,63 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1GAYxHYOp05YQDeSc-39fs7ryglXFyAKV/edit?usp=sharing&ouid=102273960254362064009&rtpof=true&sd=true](https://docs.google.com/document/d/1GAYxHYOp05YQDeSc-39fs7ryglXFyAKV/edit?usp=sharing&ouid=102273960254362064009&rtpof=true&sd=true)
 
+- <img align="right" alt="coding" src="https://github.com/user-attachments/assets/1fb82a0c-db9c-4efa-b69d-77690e4f83e3" heigt="80" width="400">
+
+
+<h1 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h1> 
+
 <h2 align="center">
     Hello, fellow developers! 🖐 Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:
 </h2>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdshahzadalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshahzadalam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/8culjzd8b9eonutm/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/8culjzd8b9eonutm/?mibextid=qi2omg" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzad_alam_321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzad_alam_321" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shahzadstudy786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shahzadstudy786" height="30" width="40" /></a>
+  
+
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdshahzadalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshahzadalam" height="40" width="50" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/8culjzd8b9eonutm/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/8culjzd8b9eonutm/?mibextid=qi2omg" height="40" width="50" /></a>
+<a href="https://instagram.com/shahzad_alam_321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzad_alam_321" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@shahzadstudy786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shahzadstudy786" height="40" width="50" /></a>
 </p>
 
- 
+<h4 align="center"> 📩 Get in touch: <a href="mailto:mdshahzadalam69@gmail.com">mdshahzadalam69@gmail.com</a> </h4>
+
+ <p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
+
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahzadalam&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak"/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshahzadalam&theme=github_dark" alt="Profile Details"/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdshahzadalam&theme=github_dark" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdshahzadalam&theme=github_dark" alt="Most Commit Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdshahzadalam&theme=github_dark" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdshahzadalam&theme=github_dark" alt="Productive Time"/>
+</p>
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
+
+<h2 align="center">Trophies</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdshahzadalam&theme=darkhub&column=9&margin-w=11" width="120%" style="display:inline-block;"/>
+</p>
 
 
 
 
 
+
+
+
+
+
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
 
 
 
@@ -54,6 +104,8 @@
             <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/>
             <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/>
             <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/>
+	    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/>
+	    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/>
         </td>
 	</tr>
 	<tr>
@@ -62,6 +114,7 @@
             <img src="https://skillicons.dev/icons?i=html" width="40"/>
             <img src="https://skillicons.dev/icons?i=css" width="40"/>
             <img src="https://skillicons.dev/icons?i=js" width="40"/>
+	    <img src="https://skillicons.dev/icons?i=jsp&theme=dark" width="40"/>
         </td>
 	</tr>
 	<tr>
@@ -77,6 +130,7 @@
             <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
             <img src="https://skillicons.dev/icons?i=express" width="40"/>
             <img src="https://skillicons.dev/icons?i=npm" width="40"/>
+	    <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/>
         </td>
 	</tr>
 	<tr>
@@ -106,13 +160,31 @@
 </table>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahzadalam&show_icons=true&locale=en&layout=compact" alt="mdshahzadalam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshahzadalam&show_icons=true&locale=en" alt="mdshahzadalam" /></p>
 
 
+
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
 <div align="center"> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=-Keep+Learning+and+Keep+Exploring+!;Let's+code+together!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=-Keep+Learning+and+Keep+Exploring+!;Let's+code+together!;Coding+with+fun" alt="Typing SVG"/>
     </h1>
-</div>
+</div
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
